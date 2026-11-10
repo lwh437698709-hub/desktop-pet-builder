@@ -1,0 +1,4 @@
+interface:
+  display_name: "桌宠制作"
+  short_description: "规划动作素材、提示词、交互与 macOS/Windows 打包流程"
+  default_prompt: "Use $desktop-pet-builder to plan and build my desktop pet."
