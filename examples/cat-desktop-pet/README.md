@@ -4,6 +4,12 @@
 
 ![猫咪头像](images/cat-avatar.png)
 
+## 动作演示
+
+![桌宠动作演示 GIF](desktop-pet-demo.gif)
+
+[下载完整动作演示视频（MP4，1280×720）](desktop-pet-demo.mp4)
+
 ## 动作体验
 
 - **待机看向鼠标**：根据鼠标在桌面上的方向切换视线帧；方向序列闭环播放。

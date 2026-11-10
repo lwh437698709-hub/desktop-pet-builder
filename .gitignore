@@ -5,3 +5,4 @@ Thumbs.db
 *.zip
 *.mp4
 *.mov
+!examples/cat-desktop-pet/desktop-pet-demo.mp4
